@@ -1,0 +1,12 @@
+#venv
+venv
+
+#env variables
+.env
+
+#docker containers
+postgres-data
+pgadmin-data
+
+#pycache
+__pycache__
